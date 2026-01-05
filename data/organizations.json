@@ -1,0 +1,35 @@
+[
+  {
+    "organization": "Dewan Perwakilan Mahasiswa Fakultas Teknologi Informasi UNISKA",
+    "role": "Kepala Hukum dan Legislasi",
+    "period": "Jan 2025 – Des 2025",
+    "logo": "dpm.jpeg",
+    "description": [
+      "Memimpin pembahasan dan pengkajian rancangan peraturan organisasi serta menginisiasi forum legal drafting, termasuk pemberian masukan dan revisi buku pedoman untuk meningkatkan tata kelola internal.",
+      "Menyelenggarakan kelas legislatif sebagai sarana edukasi tata kelola organisasi yang diikuti oleh 50+ peserta.",
+      "Bertindak sebagai Ketua Pelaksana Kongres yang melibatkan 4 lembaga organisasi dengan 90+ peserta, bertanggung jawab atas perencanaan, koordinasi, dan kelancaran pelaksanaan kegiatan."
+    ]
+  },
+  {
+    "organization": "Badan Eksekutif Mahasiswa Fakultas Teknologi Informasi UNISKA",
+    "role": "Kepala Divisi PSDM",
+    "period": "Jan 2024 – Des 2024",
+    "logo": "bem.jpeg",
+    "description": [
+      "Mengelola proses kaderisasi dan pengembangan sumber daya anggota organisasi, serta menyelenggarakan pelatihan dan evaluasi kinerja divisi untuk meningkatkan efektivitas kerja anggota.",
+      "Mengelola dokumentasi dan publikasi acara",
+      "Mendukung kebutuhan teknis IT selama kegiatan berlangsung"
+    ]
+  },
+  {
+    "organization": "Himpunan Mahasiswa Prodi Teknik Informatika UNISKA",
+    "role": "Staff Pemrograman",
+    "period": "Jan 2023 – Des 2023",
+    "logo": "hmpti.jpeg",
+    "description": [
+      "Memberikan ide dan kontribusi dalam penyusunan program kerja berbasis pemrograman.",
+      "Melaksanakan program pembelajaran dan kelas pemrograman sebagai sarana berbagi pengetahuan IT kepada anggota dan mahasiswa, dengan 50+ peserta.",
+      "Mendukung peningkatan minat dan pemahaman dasar pemrograman melalui kegiatan edukatif dan praktis."
+    ]
+  }
+]

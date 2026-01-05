@@ -1,0 +1,21 @@
+{
+  "technical": [
+    { "name": "PHP", "icon": "php.svg" },
+    { "name": "Laravel", "icon": "laravel.png" },
+    { "name": "MySQL", "icon": "mysql.svg" },
+    { "name": "Git", "icon": "git.png" },
+    { "name": "HTML", "icon": "html.png" },
+    { "name": "CSS", "icon": "css.png" },
+    { "name": "Tailwind CSS", "icon": "tailwind.png" },
+    { "name": "Bootstrap", "icon": "bootstrap.png" },
+    { "name": "JavaScript", "icon": "javascript.png" }
+  ],
+  "soft": [
+    "Komunikasi Efektif",
+    "Kerja Tim & Kepemimpinan",
+    "Public Speaking",
+    "Koordinasi Kegiatan",
+    "Berpikir Analitis & Teliti",
+    "Cepat Beradaptasi"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "work": [
+    {
+      "title": "Magang – Web Developer",
+      "company": "Politeknik Batulicin",
+      "period": "September 2024 – November 2024",
+      "description": [
+        "Melakukan perbaikan dan pengembangan website sistem informasi kampus",
+        "Mengembangkan aplikasi keuangan internal berbasis web untuk 50+ pegawai",
+        "Maintenance database dan koordinasi dengan staf dan dosen"
+      ]
+    }
+  ],
+  "training": [
+    {
+      "title": "Pelatihan Web Development",
+      "institution": "Internal Kampus / Organisasi",
+      "period": "2023",
+      "description": [
+        "Mempelajari dasar pengembangan web",
+        "Praktik pembuatan website statis dan dinamis",
+        "Kolaborasi tim dan presentasi hasil"
+      ]
+    }
+  ],
+  "certification": [
+    {
+      "name": "Pemrograman Web",
+      "issuer": "Fakultas Teknologi Informasi Universitas Islam Kalimantan Muhammad Arsyad Al Banjari",
+      "year": "2025",
+      "image": "pemrograman-web.jpg",
+      "credentialUrl": "https://praktikum-fti.uniska-bjm.ac.id/check-certificate/58DKgl9avmKgeG1vzAp3",
+      "skills": [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "Livewire"
+      ]
+    },
+    {
+      "name": "Pemrograman Web 14",
+      "issuer": "Fakultas Teknologi Informasi Universitas Islam Kalimantan Muhammad Arsyad Al Banjari",
+      "year": "2024",
+      "image": "pemrograman-web-14.jpg",
+      "credentialUrl": "https://praktikum-fti.uniska-bjm.ac.id/check-certificate/MWVYmxkaznVZaJ0PoX1G",
+      "skills": [
+        "Laravel",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Pemrograman Web 2",
+      "issuer": "Fakultas Teknologi Informasi Universitas Islam Kalimantan Muhammad Arsyad Al Banjari",
+      "year": "2024",
+      "image": "pemrograman-web-2.jpg",
+      "credentialUrl": "https://praktikum-fti.uniska-bjm.ac.id/check-certificate/MWVYmxkazn2yaJ0PoX1G",
+      "skills": [
+        "Laravel",
+        "PHP",
+        "MySQL"
+      ]
+    }
+  ]
+}

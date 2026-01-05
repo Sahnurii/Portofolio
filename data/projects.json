@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Aplikasi Peminjaman Ruangan",
+    "image": "peminjaman-ruangan.png",
+    "tech": ["Laravel 12", "Bootstrap", "MySQL", "Middleware", "Authentication"],
+    "description": "Aplikasi peminjaman ruangan berbasis web dengan sistem kalender, manajemen jadwal, serta laporan PDF menggunakan mPDF. Mendukung 3 peran pengguna untuk pengelolaan dan persetujuan peminjaman.",
+    "year": "2025",
+    "link": ""
+  },
+  {
+    "title": "Website Kantin Digital",
+    "image": "website-kantin.png",
+    "tech": ["Laravel 12", "Midtrans", "MySQL", "TailwindCSS", "Payment Gateway", "E-Commerce", "Middleware", "Authentication"],
+    "description": "Aplikasi penjualan kantin berbasis web dengan sistem transaksi digital. Mendukung 4 peran pengguna serta integrasi Midtrans Payment Gateway untuk pembayaran non-tunai.",
+    "year": "2025",
+    "link": ""
+  },
+  {
+    "title": "Aplikasi Keuangan",
+    "image": "aplikasi-keuangan.png",
+    "tech": ["Native MVC", "Bootstrap", "Midtrans", "MySQL", "Report", "QRCode Generator", "Middleware", "Authentication"],
+    "description": "Aplikasi keuangan berbasis web untuk pencatatan transaksi, manajemen kas dan bank, serta laporan keuangan dalam format PDF dan Excel. Mendukung 4 peran pengguna dan integrasi payment gateway.",
+    "year": "2025",
+    "link": ""
+  },
+  {
+    "title": "Aplikasi Monitoring Proyek dan Material",
+    "image": "monitoring-proyek.png",
+    "tech": ["Laravel 12", "Tailwind CSS", "MySQL", "mPDF", "Middleware", "Authentication"],
+    "description": "Sistem monitoring proyek dan penggunaan material dengan manajemen data proyek, pelaporan PDF, serta pengaturan akses berbasis 3 peran pengguna.",
+    "year": "2025",
+    "link": ""
+  }
+]
