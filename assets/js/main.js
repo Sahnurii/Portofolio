@@ -223,14 +223,14 @@ function createOrganizationCard(item, isMobile = false) {
         </div>
 
         <!-- Body -->
-        <div class="p-6 flex-1 flex flex-col">
+        <div class="p-6 flex-1 flex flex-col bg-white dark:bg-gray-800">
             <!-- Organization Name -->
-            <div class="mb-4 pb-4 border-b border-gray-100">
+            <div class="mb-4 pb-4 border-b border-gray-100 dark:border-gray-700">
                 <div class="flex items-start gap-2">
-                    <svg class="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
                     </svg>
-                    <p class="text-gray-700 font-medium text-sm leading-relaxed">
+                    <p class="text-gray-700 dark:text-gray-200 font-medium text-sm leading-relaxed">
                         ${item.organization}
                     </p>
                 </div>
@@ -238,16 +238,16 @@ function createOrganizationCard(item, isMobile = false) {
 
             <!-- Description -->
             <div class="flex-1">
-                <h4 class="text-sm font-semibold text-gray-900 mb-3 flex items-center gap-2">
-                    <svg class="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <h4 class="text-sm font-semibold text-gray-900 dark:text-gray-100 mb-3 flex items-center gap-2">
+                    <svg class="w-4 h-4 text-green-600 dark:text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
                     </svg>
                     Tanggung Jawab:
                 </h4>
                 <ul class="space-y-3">
                     ${item.description.map(desc => `
-                        <li class="flex items-start gap-3 text-gray-600 text-sm">
-                            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                        <li class="flex items-start gap-3 text-gray-600 dark:text-gray-300 text-sm">
+                            <svg class="w-5 h-5 text-green-500 dark:text-green-400 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                             </svg>
                             <span class="leading-relaxed">${desc}</span>
